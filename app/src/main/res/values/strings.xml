@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Kelionė link NBA titulo</string>
+    <string name="user_name">name</string>
+    <string name="journey_to_title_image">Kelionė link NBA titulo image</string>
+    <string name="start_journey_to_title">Pradėti kelionę link čempionų žiedų</string>
+    <string name="enter_name">Įveskite savo vardą</string>
+
+    <string name="page0">Staples Center arena įsielektrinusi – prasidėjo atkrintamosios, o Los Andželo Lakers yra favoritai laimėti. Pirmasis varžovas Denverio Nuggets. Po dviejų rungtynių Lakers pirmauja serijoje 2–0, o vykstant trečiosioms prieš ilgąją pertrauką turi 15 taškų skirtumą. Keliaudamas į rūbinę išgirsti, kad komentatorius Charles Barkley sako, kad "%1$s žaidžia gerai, bet toks žaidimo stilius neatneša titulų". Kokiu žaidimu atsakai po pertraukos?</string>
+    <string name="page0_choice1">Tęsi savanaudišką žaidimą</string>
+    <string name="page0_choice2">Paklausai Sero Charleso ir pradedi dalintis kamuoliu</string>
+
+    <string name="page1">Po pertraukos tęsi savo dominuojantį žaidimą, pelnai 40+ taškų ir atvedi Lakers į kitą etapą. Kitame etape laukia Jutos Jazz su Carlosu Boozeriu. Dvejas rungtynes iš eilės jis dominuoja prieš Lakers aukštaūgius ir Jazz pirmauja serijoje 2–0. Žiniasklaida jau pradeda nurašyti Lakers komandą ir šaipytis, kad %1$s Bryantas negali laimėti be Shaqo. Ką atsakai į jiems atsakai?</string>
+    <string name="page1_choice1">Visą kaltę suverti komandos draugams</string>
+    <string name="page1_choice2">Laikai burną užčiauptą ir pats bandai žaisti geriau</string>
+
+    <string name="page2">Nusprendęs įrodyti, kad ne tik pats vienas gali rinkti taškus, bet ir padaryti geresniais komandos draugus, pradedi dalintis kamuolius. Deja, niekas tą vakarą iš komandos draugų nesugebėjo pagauti ritmo švaistė metimus pro šalį. Tuo tarpu Nuggets krepšininkai siuntė vieną kamuolį po kito į krepšį ir ne tik panaikino dviženklį deficitą, bet ir šventė pergalę. Kitą rytą visa žiniasklaida maišė tave su žemėmis. Kitame mače vėl buvai dingęs, bet tavo komanda tiesiog per gera pralaimėti - patenkate į kitą etapą. Kitame etape laukia Jutos Jazz su Carlosu Boozeriu. Dvejas rungtynes iš eilės jis dominuoja prieš Lakers aukštaūgius ir Jazz pirmauja serijoje 2–0. Žiniasklaida jau pradeda nurašyti Lakers komandą ir šaipytis, kad %1$s Bryantas negali laimėti be Shaqo. Ką atsakai į jiems atsakai?</string>
+    <string name="page2_choice1">Laikai burną užčiauptą ir pats bandai žaisti geriau</string>
+    <string name="page2_choice2">Visą kaltę suverti komandos draugams</string>
+
+    <string name="page3">Pavyzdžiu parodyti viską ne žodžiais, o darbais aikštelėje užkrečia ir komandos draugus. Likusioje serijos dalyje tiek tu, tiek komandos draugai žaidžia puikiai ir žengiate į kitą etapą, kur Lakers laukia Fynikso Suns su buvusiu geriausiu tavo komandos draugu Shaquille O\'Neal. Serija labai atkakli ir viskas sprendžiasi paskutinėmis paskutinių rungtynių sekundėmis. Lakers atsilieka 1 tašku ir kamuolys tavo rankose. Ką nusprendi daryti?</string>
+    <string name="page3_choice1">Imiesi iniciatyvos ir atakuoji pats</string>
+    <string name="page3_choice2">Perduodi kamuolį laisvam komandos draugui</string>
+
+    <string name="page4">Sudėtingas metimas skrodžia tinklelį ir tu - NBA superfinale! Jame laukia Bostono Celtics su savo didžiuoju trejetu. Viskas vėl sprendžiasi septintosiose serijos rungtynėse. Visą vakarą tave gynyboje dusina Paulas Piercas, o jūs atsiliekate 2 taškais. Ketvirtasis kėlinys, perimi kamuolį ir pasileidi į greitą ataką. Turi du sprendimus: rizikuoti ir mesti tritaškį ar bandyti pelnyti lengvesnius du taškus, nors po krepšiu jau laukia poziciją užsiėmęs Piercas?</string>
+    <string name="page4_choice1">Veržiesi po krepšiu</string>
+    <string name="page4_choice2">Meti tritaškį</string>
+
+    <string name="page5">Kamuolys pašokinėjęs ant lanko įkrenta ir pirmąkart išsiveržiate į priekį. Nuo tada tik didinate atotrūkį ir 17 kartą istorijoje Los Andželo Lakers - NBA čempionai. O tu - %1$s Bryant - pripažįstamas naudingiausiu finalo serijos krepšininku.</string>
+
+    <string name="page6">Toks sprendimas nepasiteisina, tavo komanda pralaimi seriją ir kaip sakoma \'gone fishin\' t.y. keliauja žvejoti ir ilsėtis, nes ir vėl eilinį sezoną likote be NBA čempionų titulo. Sėkmės kitais metais…</string>
+    <string name="story_image_content_description">Story page image</string>
+    <string name="play_again_button_text">Vėl bandyti iškovoti titulą?</string>
+
+</resources>
+
+
+
+
+
+
